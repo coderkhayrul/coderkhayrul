@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [khayrulshanto](https://khayrulshanto.xyz)
 
-- 💬 Ask me about **PHP, LARAVEL, CLOUD HOSTING**
+- 💬 Ask me about **PHP, LARAVEL, CLOUD WEB HOSTING**
 
 - 📫 How to reach me **coderkhayrul@gmail.com**
 
-- 📄 Know about my experiences [khayrulshanto.xyz](https://khayrulshanto.xyz)
+- 📄 Know about my experiences [khayrulshanto](https://khayrulshanto.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
