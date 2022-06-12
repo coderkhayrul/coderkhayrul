@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Vue Js**
 
-- 👨‍💻 All of my projects are available at [https://khayrulshanto.xyz](khayrulshanto.xyz)
+- 👨‍💻 All of my projects are available at [khayrulshanto](https://khayrulshanto.xyz)
 
 - 💬 Ask me about **PHP, LARAVEL, CLOUD HOSTING**
 
