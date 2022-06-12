@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhayrul&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhayrul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderkhayrul" alt="coderkhayrul" /></a> </p>
 
 - 🌱 I’m currently learning **Vue Js**
 
-- 👨‍💻 All of my projects are available at [khayrulshanto.xyz](khayrulshanto.xyz)
+- 👨‍💻 All of my projects are available at [https://khayrulshanto.xyz](khayrulshanto.xyz)
 
 - 💬 Ask me about **PHP, LARAVEL, CLOUD HOSTING**
 
