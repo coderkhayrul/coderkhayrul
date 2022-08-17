@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Vue Js**
 
-- 👨‍💻 All of my projects are available at [khayrulshanto](https://khayrulshanto.xyz)
+- 👨‍💻 All of my projects are available at [khayrulshanto](https://khayrulshanto.me)
 
 - 💬 Ask me about **PHP, LARAVEL, CLOUD WEB HOSTING**
 
 - 📫 How to reach me **coderkhayrul@gmail.com**
 
-- 📄 Know about my experiences [khayrulshanto](https://khayrulshanto.xyz)
+- 📄 Know about my experiences [khayrulshanto](https://khayrulshanto.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
